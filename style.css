@@ -1,0 +1,86 @@
+h1,
+h2 {
+  font-family: Lato;
+}
+h1,
+h2 {
+  font-family: Lato;
+}
+
+body {
+  margin: 0;
+}
+
+header {
+  background-color: lightpink;
+  padding: 0.5em;
+  position: sticky;
+  top: 0px;
+}
+
+nav {
+  background-color: #191e1f;
+}
+
+nav a {
+  color: #f2f2f2;
+  text-decoration: ivory;
+  font-size: 20px;
+  padding: 15px;
+}
+
+.logo {
+  float: right;
+}
+
+nav a:hover {
+  background-color: #f0f7f8;
+  color: black;
+}
+
+main {
+  border: 1px solid gray;
+  font-size: 1.2em;
+  padding: 0px;
+}
+
+main div {
+  display: inline-block;
+  margin-bottom: 15px;
+  width: 45%;
+  margin-left: 1em;
+}
+
+.user-form {
+  border: 1px solid gray;
+  background-color: #f0f3f8;
+  padding: 20px;
+  font-size: 1.2em;
+}
+
+input[type='text'] {
+  width: 90%;
+  padding: 15px;
+  margin: 20px;
+}
+
+.submit-btn {
+  padding: 10px;
+  font-size: 1.2em;
+  border: 1px solid palevioletred;
+  background-color: powderblue;
+}
+.Reset-btn {
+  padding: 5px;
+  font-size: 0.5em;
+  border: 1px solid blanchedalmond;
+  background-color: palevioletred;
+}
+footer {
+  background-color: palegreen;
+  font-size: 1.2em;
+  padding: 1.3em;
+}
+.credits {
+  float: right;
+}
